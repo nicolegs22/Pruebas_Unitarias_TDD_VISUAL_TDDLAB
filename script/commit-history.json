@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "cca58970df454ce4c510bc9e321cc18dc7a438db",
     "author": "nicolegs22",
     "commit": {
       "date": "2025-12-11T20:32:59.000Z",
       "message": "Ejercicio FIzBuzz2",
-      "url": "https://github.com/nicolegs22/Pruebas_Unitarias_TDD_VISUAL_TDDLAB/commit/HEAD"
+      "url": "https://github.com/nicolegs22/Pruebas_Unitarias_TDD_VISUAL_TDDLAB/commit/cca58970df454ce4c510bc9e321cc18dc7a438db"
     },
     "stats": {
       "total": 26,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nicolegs22",
+    "commit": {
+      "date": "2025-12-11T20:43:17.000Z",
+      "message": "Ejercicio FIzBuzz se implemento mas test",
+      "url": "https://github.com/nicolegs22/Pruebas_Unitarias_TDD_VISUAL_TDDLAB/commit/HEAD"
+    },
+    "stats": {
+      "total": 57,
+      "additions": 57,
+      "deletions": 0,
+      "date": "2025-12-11"
+    },
+    "coverage": 100,
+    "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
   }

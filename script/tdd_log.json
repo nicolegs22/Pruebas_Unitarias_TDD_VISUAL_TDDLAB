@@ -24,9 +24,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "cca58970df454ce4c510bc9e321cc18dc7a438db",
     "commitName": "Ejercicio FIzBuzz2",
     "commitTimestamp": 1765485185465,
     "testId": 0
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 3,
+    "numTotalTests": 19,
+    "timestamp": 1765485370542,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1765485615704,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Ejercicio FIzBuzz se implemento mas test",
+    "commitTimestamp": 1765485802472,
+    "testId": 1
   }
 ]

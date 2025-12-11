@@ -1,0 +1,32 @@
+[
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1765484994085,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1765485069386,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1765485116829,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Ejercicio FIzBuzz2",
+    "commitTimestamp": 1765485185465,
+    "testId": 0
+  }
+]

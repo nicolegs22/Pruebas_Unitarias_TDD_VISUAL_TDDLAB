@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "nicolegs22",
+    "commit": {
+      "date": "2025-12-11T20:32:59.000Z",
+      "message": "Ejercicio FIzBuzz2",
+      "url": "https://github.com/nicolegs22/Pruebas_Unitarias_TDD_VISUAL_TDDLAB/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
+      "date": "2025-12-11"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
